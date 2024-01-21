@@ -1,0 +1,20 @@
+id:CIIT/FA22-BCS-045/ISB
+ICT by MajidIqbal (2+1): 4 (92)
+English by XYZ (3+0): 3 (71)
+Islamiyat by XYZ (3+0): 3.66 (83)
+AP by Moosa (3+1): 3.66 (83)
+
+CGPA: 3.59
+
+Total credit hours: 13
+id:CIIT/FA22-BCS-045/ISB
+PF by UmerIqbal (3+1):  3.33 (77.0)
+DLD by TahirKhan (3+1):  3.33 (75.0)
+DS by TanveerAhmed (3+0):  3.0 (71.0)
+PP by OmerVikas (3+0):  3.33 (76.0)
+RWS by MehmoodAnwar (3+0):  3.66 (83.0)
+CAL by KhurramShehzad (3+0):  2.66 (69)
+
+CGPA: 3.23
+
+Total credit hours: 20
