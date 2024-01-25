@@ -16,7 +16,7 @@ public class knows {
 				System.out.print("\033[H\033[2J");
 				System.out.flush();
 			}
-			System.out.println("\n\n       KNOWS™\n\n");
+			System.out.println("\n\n       KNOWS\n\n");
 		} catch (Exception e) {
 			/* Handle exceptions */ }
 	}
@@ -61,7 +61,7 @@ public class knows {
 		System.out.print("\n1: Admin\n2: Faculty Interface.\n3: Student Interface.\n0: Exit\n\n");
 		opt = (inputclear(0, 1, 2, 3));
 		if (opt == 0) {
-			System.out.println("\n\n\nKNOWS™. Copyright 2023.");
+			System.out.println("\n\n\nKNOWS. Copyright 2023.");
 			System.exit(0);
 		}
 		if (opt == 1) {
